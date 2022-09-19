@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Square Peg;
+  src: url(SquarePeg-Regular.ttf);
+}
+
+html {
+  margin-left: 20%;
+  background: #6d092b;
+  font-family: 'Antic Slab', serif;
+  ;
+  color: #ECE4B7;
+}
+
+h1 {
+  font-family: 'Square Peg', cursive;
+  color: #Ffa205;
+  font-size: 50px;
+}
+
+a {
+  color: #Ff5472;
+}
+
+a:hover {
+  color: #FF8811;
+}
+
+.navbar {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+.pic {
+  display: block;
+  margin-left: auto;
+}
